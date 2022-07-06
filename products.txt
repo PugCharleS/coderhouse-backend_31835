@@ -1,0 +1,1 @@
+[{"id":1,"title":"Apple iPhone 13","price":"$1500","thumbnail":"http://thumbnail1.com"},{"id":2,"title":"Apple MacBook Air","price":"$1300","thumbnail":"http://thumbnail2.com"},{"id":3,"title":"Apple Watch","price":"$650","thumbnail":"http://thumbnail3.com"}]
